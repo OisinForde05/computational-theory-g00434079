@@ -66,9 +66,23 @@ Contains an overview of the repository and basic setup instructions.
 
 ## Requirements
 
-The project uses Python, Jupyter Notebook and NumPy.
+The project uses:
+
+- [Python](https://www.python.org/)
+- [Jupyter Notebook](https://jupyter.org/)
+- [NumPy](https://numpy.org/)
 
 Install the required packages with:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## References
+
+The main sources used throughout the project are:
+
+- [NIST FIPS 180-4 - Secure Hash Standard](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf)
+- [Ian McLoughlin - Computational Theory](https://github.com/ianmcloughlin/computational-theory)
+- [Python Documentation](https://docs.python.org/3/)
+- [NumPy Documentation](https://numpy.org/doc/)
