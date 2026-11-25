@@ -112,12 +112,6 @@ The project uses:
 - [Jupyter Notebook](https://jupyter.org/)
 - [NumPy](https://numpy.org/)
 
-Install the required packages with:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Running the Project
 
 Clone the repository:
